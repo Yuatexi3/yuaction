@@ -90,5 +90,6 @@ public class missile_move : MonoBehaviour
             obj.GetComponent<boom_move>().Boom(3, 0.1f);
             Destroy(this.gameObject);
         }
+        //a
     }
 }
